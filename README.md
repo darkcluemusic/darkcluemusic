@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Dev, Music, Arts & more
 - 💞️ I’m looking to collaborate on Build Up [Website](https://dark-clue.web.app)
 - 📫 How to reach me [Dark Clue](mailto:darkcluemusic@gmail.com)
-- 😄 Pronouns: dcm
+- 😄 Pronouns: [dcm/DCM](https://dark-clue.web.app)
 - ⚡ Fun fact: Dev Music By [Suryo DwiJayanto](https://www.google.com/search?q=SuryoDwiJayanto)
 
 <!---
