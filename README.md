@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darkcluemusic
 - 👀 I’m interested in Music Digital
 - 🌱 I’m currently learning Web Dev, Music, Arts & more
-- 💞️ I’m looking to collaborate on Build Up [Website](https://dark-clue.web.app)
+- 💞️ I’m looking to collaborate on Build Up [Website](https://darkcluemusic.github.io)
 - 📫 How to reach me [Dark Clue](mailto:darkcluemusic@gmail.com)
 - 😄 Pronouns: [dcm/DCM darkclue](https://dark-clue.web.app)
 - ⚡ Fun fact: Dev Music By [Suryo DwiJayanto](https://www.google.com/search?q=SuryoDwiJayanto)
